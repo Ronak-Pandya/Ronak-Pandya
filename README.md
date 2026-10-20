@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm [Ronak Pandya] 👋
+# Hi, I'm Ronak Pandya 👋
 
 ## About Me
 
