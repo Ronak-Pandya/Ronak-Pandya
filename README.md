@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**Ronak-Pandya/Ronak-Pandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Ronak Pandya] 👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a QA Automation Engineer with experience in
+software testing, test automation, and quality
+assurance for web applications.
+
+I work with Java, Selenium WebDriver, TestNG,
+Cucumber, API testing, and database validation.
+
+I'm also expanding my skills in Java backend
+development, Spring Boot, n8n workflow automation,
+and AI integrations.
+
+## Core Skills
+
+- Automation Testing: Selenium, Java, TestNG
+- Testing: Manual, Functional, Regression, API
+- Frameworks: Cucumber, Page Object Model
+- Development: Java, Spring Boot, REST APIs
+- Databases: SQL and database validation
+- Exploring: n8n, AI workflows, Cloud, Kubernetes
+
+## My Projects
+
+Practical projects, automation frameworks, and
+AI workflow demonstrations will be showcased here.
+
+## Connect With Me
+
+- LinkedIn: [Your LinkedIn Profile URL]
+- Email: [Your Professional Email]
