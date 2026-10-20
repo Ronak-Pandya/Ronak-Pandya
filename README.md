@@ -31,5 +31,5 @@ AI workflow demonstrations will be showcased here.
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Professional Email]
+- LinkedIn: https://www.linkedin.com/in/ronak-pandya-70bb69157/
+- Email: ronakp3596@gmail.com
